@@ -20,8 +20,8 @@ To get a local copy up and running follow these simple example steps.
 **Using it Locally**
 
 - Clone the project
-  `git clone git@github.com:thecodechaser/my-ruby-enumerable.git`
-  `cd my-ruby-enumerable`
+  `git@github.com:christianbiring1/enumerable.git`
+  `cd enumerable`
 
 **To Start the programs**
 `open terminal`
